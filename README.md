@@ -24,7 +24,7 @@ Select the temperature unit (Celsius or Fahrenheit) you want to convert to.
 Click the Convert button.
 The converted temperature value will be displayed in the output field.
 Demo
-A live demo of the app can be found here link .
+A live demo of the app can be found here link https://gautammanak1.github.io/Temperature-Converter/.
 
 License
 This project is licensed under the MIT License.
